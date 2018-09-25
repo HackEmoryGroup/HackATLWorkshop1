@@ -2,12 +2,24 @@
 
 /* Change the styles of the main logo */
 .main-logo{
-	/* Uncomment to change the color of the text */
+	/* Change the color of the text */
 	color: #fff;
 
 }
 
+/* Change the background color of the first section */
+.banner_inner{
+	background-color: #f00;
+}
 
+/* Change the background color of the first section */
+.main_menu{
+	background: #f00;
+}
+
+.header_area.navbar_fixed .main_menu{
+	background: #f00;
+}
 
 
 

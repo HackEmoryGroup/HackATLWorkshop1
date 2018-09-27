@@ -1,29 +1,52 @@
 
 
 /* Change the styles of the main logo */
-.main-logo{
-	/* Change the color of the text */
-	color: #fff;
-
-}
+/*.main-logo{
+color: #fff;
+}*/
 
 /* Change the background color of the first section */
-.banner_inner{
+/*.banner_inner{
+	background-color: #8cccec;
+}*/
+
+/* Change the background color of the static header */
+/*.main_menu{
+	background: #8cccec;
+}*/
+
+/*#8b7ab3*/
+/*#8ba3cf*/
+
+/* Change the background color of the moving header */
+/*.header_area.navbar_fixed .main_menu{
+	background: #8cccec;
+}*/
+
+/* Change the background color of the icons in the second section */
+/*.work_item:hover i{
+	color: #000;
+	background-image: none;
+	background-color: #f00;
+}*/
+
+/* Change the color of the tex in the second section under the icons */
+/*.work_item:hover h4{
+	color: #f00;
+}*/
+
+/* Change the background color of the navigation buttons of the third section */
+/*.made_life_inner .nav.nav-tabs li a.active{
+	background-image:none;
 	background-color: #f00;
 }
-
-/* Change the background color of the first section */
-.main_menu{
-	background: #f00;
+*/
+/* Change the background color of the Get Started Now button of the third section */
+/*.main_btn{
+	background-image:none;
+	background-color: #f00;
 }
-
-.header_area.navbar_fixed .main_menu{
-	background: #f00;
-}
-
-
-
-
+*/
 
 
 
